@@ -1,5 +1,6 @@
 # ImageTranscoder
 
-## デモンストレーション
+## Demonstration
 
-### 使用するデータ
+### DATA
+$$ y=¥frac{1}{x_1} + ¥eps, eps ¥sim N(x_3)$$
