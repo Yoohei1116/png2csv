@@ -1,6 +1,7 @@
 ## ファイルの説明
 - make_csv.py：本アプリのメインファイルです。tkinterのウィジェット配置をしています。
 - extract.py：画像を変換する関数です。
+- 01：変換する画像を格納したファイルです。
 
 ## 動作イメージ
 ![tk-2024-05-18-10-49-46-imageonline co-7839603](https://github.com/Yoohei1116/test/assets/164162238/f382d6da-b45b-46d9-9a24-fefb39b94b41)
